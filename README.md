@@ -4,9 +4,12 @@ Leia primeiro todo o projeto, faça sua estimativa de horas para o desenvolvimen
 
 Forke este projeto, faça o desenvolvimento e quando finalizar faça um PR aqui. Envie um email com o título `[Teste Fullstack] Finalizado` para rh@4.events com o link do seu PR.
 
+**Lembre-se: atualize este README informando como instalar e executar seu projeto.**
+
 ## Missão backend
 
-Desenvolver uma **API JSON RESTful** em **Node**, que utilize todos os métodos (`GET` e `POST`).
+Desenvolver uma **API JSON RESTful** em **Node**, que utilize os métodos `GET` e `POST`.
+
 Faça o teste unitário da **API** (Bônus :star:)
 ### Especificação
 
